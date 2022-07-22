@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringCloudAlibabaMSB.iml" filepath="$PROJECT_DIR$/SpringCloudAlibabaMSB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudalibaba-config-3377/cloudalibaba-config-3377.iml" filepath="$PROJECT_DIR$/cloudalibaba-config-3377/cloudalibaba-config-3377.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloudalibaba-nacos-9001/cloudalibaba-nacos-9001.iml" filepath="$PROJECT_DIR$/cloudalibaba-nacos-9001/cloudalibaba-nacos-9001.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloudalibaba-nacos-9002/cloudalibaba-nacos-9002.iml" filepath="$PROJECT_DIR$/cloudalibaba-nacos-9002/cloudalibaba-nacos-9002.iml" />
       <module fileurl="file://$PROJECT_DIR$/loudalibaba-consumer-nacos-8083/loudalibaba-consumer-nacos-8083.iml" filepath="$PROJECT_DIR$/loudalibaba-consumer-nacos-8083/loudalibaba-consumer-nacos-8083.iml" />

@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cloudalibaba-nacos-9001" />
+        <module name="cloudalibaba-config-3377" />
         <module name="loudalibaba-consumer-nacos-8083" />
         <module name="cloudalibaba-nacos-9002" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cloudalibaba-config-3377" target="1.8" />
       <module name="cloudalibaba-nacos-9001" target="1.8" />
       <module name="cloudalibaba-nacos-9002" target="1.8" />
       <module name="loudalibaba-consumer-nacos-8083" target="1.8" />
@@ -21,6 +23,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="SpringCloudAlibabaMSB" options="-parameters" />
+      <module name="cloudalibaba-config-3377" options="-parameters" />
       <module name="cloudalibaba-nacos-9001" options="-parameters" />
       <module name="cloudalibaba-nacos-9002" options="-parameters" />
       <module name="loudalibaba-consumer-nacos-8083" options="-parameters" />

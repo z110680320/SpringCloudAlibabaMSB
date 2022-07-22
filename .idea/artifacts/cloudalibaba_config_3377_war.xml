@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cloudalibaba-config-3377:war">
+    <output-path>$PROJECT_DIR$/cloudalibaba-config-3377/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>cloudalibaba-config-3377</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="cloudalibaba-config-3377-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="cloudalibaba-config-3377:war exploded" />
+    </root>
+  </artifact>
+</component>
